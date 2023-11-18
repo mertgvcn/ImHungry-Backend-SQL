@@ -1408,11 +1408,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mertg\\source\\repos\\WebAPI_Giris\\WebAPI_Giris.csproj",
-      "projectName": "WebAPI_Giris",
-      "projectPath": "C:\\Users\\mertg\\source\\repos\\WebAPI_Giris\\WebAPI_Giris.csproj",
+      "projectUniqueName": "C:\\Users\\mertg\\source\\repos\\ImHungry-Backend\\ImHungry-Backend.csproj",
+      "projectName": "ImHungry-Backend",
+      "projectPath": "C:\\Users\\mertg\\source\\repos\\ImHungry-Backend\\ImHungry-Backend.csproj",
       "packagesPath": "C:\\Users\\mertg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mertg\\source\\repos\\WebAPI_Giris\\obj\\",
+      "outputPath": "C:\\Users\\mertg\\source\\repos\\ImHungry-Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mertg\\AppData\\Roaming\\NuGet\\NuGet.Config",
